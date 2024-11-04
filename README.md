@@ -1,12 +1,10 @@
-Com base nas informações fornecidas no currículo de Joilson Alves, aqui está um esboço para um portfólio profissional.
-
 Joilson Alves
 
 Gestor e Especialista em Tecnologia da Informação
 
-📍 Localização: Brasil
-📞 Contato: (71) 99684-8056
-✉️ E-mail: alves.techworks@gmail.com
+•	📍 Localização: Brasil
+•	📞 Contato: (71) 99684-8056
+•	✉️ E-mail: alves.techworks@gmail.com
 
 Perfil Profissional
 
